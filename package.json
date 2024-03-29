@@ -1,0 +1,14 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "landing page for projectone",
+  "main": "index.js",
+  "scripts": {
+    "sasscss": "node-sass sass/main.scss css/app.css -w"
+  },
+  "author": "edlla",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
